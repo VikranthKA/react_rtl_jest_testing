@@ -23,6 +23,10 @@ test("Test second: Input box", () => {
   expect(checkInput).toHaveAttribute("type", "text");
   expect(checkInput).toHaveAttribute("value", "user1");
 
+
+
+
+
 });
 
 
